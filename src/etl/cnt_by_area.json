@@ -1,0 +1,977 @@
+[
+  {
+    "area_id": "160",
+    "area_name": "Алматы",
+    "vacancies_count": 15170
+  },
+  {
+    "area_id": "159",
+    "area_name": "Астана",
+    "vacancies_count": 8488
+  },
+  {
+    "area_id": "177",
+    "area_name": "Караганда",
+    "vacancies_count": 2003
+  },
+  {
+    "area_id": "205",
+    "area_name": "Шымкент",
+    "vacancies_count": 1600
+  },
+  {
+    "area_id": "172",
+    "area_name": "Костанай",
+    "vacancies_count": 1206
+  },
+  {
+    "area_id": "194",
+    "area_name": "Усть-Каменогорск",
+    "vacancies_count": 1121
+  },
+  {
+    "area_id": "181",
+    "area_name": "Павлодар",
+    "vacancies_count": 1015
+  },
+  {
+    "area_id": "153",
+    "area_name": "Атырау",
+    "vacancies_count": 849
+  },
+  {
+    "area_id": "154",
+    "area_name": "Актобе",
+    "vacancies_count": 799
+  },
+  {
+    "area_id": "180",
+    "area_name": "Петропавловск",
+    "vacancies_count": 578
+  },
+  {
+    "area_id": "152",
+    "area_name": "Актау",
+    "vacancies_count": 565
+  },
+  {
+    "area_id": "193",
+    "area_name": "Уральск",
+    "vacancies_count": 538
+  },
+  {
+    "area_id": "176",
+    "area_name": "Кокшетау",
+    "vacancies_count": 532
+  },
+  {
+    "area_id": "185",
+    "area_name": "Семей",
+    "vacancies_count": 470
+  },
+  {
+    "area_id": "187",
+    "area_name": "Тараз",
+    "vacancies_count": 399
+  },
+  {
+    "area_id": "190",
+    "area_name": "Темиртау",
+    "vacancies_count": 204
+  },
+  {
+    "area_id": "198",
+    "area_name": "Экибастуз",
+    "vacancies_count": 198
+  },
+  {
+    "area_id": "174",
+    "area_name": "Кызылорда",
+    "vacancies_count": 195
+  },
+  {
+    "area_id": "188",
+    "area_name": "Талдыкорган",
+    "vacancies_count": 170
+  },
+  {
+    "area_id": "192",
+    "area_name": "Туркестан",
+    "vacancies_count": 135
+  },
+  {
+    "area_id": "182",
+    "area_name": "Рудный",
+    "vacancies_count": 117
+  },
+  {
+    "area_id": "166",
+    "area_name": "Жезказган",
+    "vacancies_count": 95
+  },
+  {
+    "area_id": "2653",
+    "area_name": "Каскелен",
+    "vacancies_count": 93
+  },
+  {
+    "area_id": "171",
+    "area_name": "Конаев",
+    "vacancies_count": 89
+  },
+  {
+    "area_id": "3048",
+    "area_name": "Талгар",
+    "vacancies_count": 71
+  },
+  {
+    "area_id": "150",
+    "area_name": "Аксай (Казахстан)",
+    "vacancies_count": 59
+  },
+  {
+    "area_id": "197",
+    "area_name": "Щучинск",
+    "vacancies_count": 56
+  },
+  {
+    "area_id": "183",
+    "area_name": "Риддер (ВКО)",
+    "vacancies_count": 55
+  },
+  {
+    "area_id": "164",
+    "area_name": "Балхаш",
+    "vacancies_count": 48
+  },
+  {
+    "area_id": "2437",
+    "area_name": "Степногорск",
+    "vacancies_count": 36
+  },
+  {
+    "area_id": "196",
+    "area_name": "Шемонаиха (ВКО)",
+    "vacancies_count": 33
+  },
+  {
+    "area_id": "151",
+    "area_name": "Аксу (Павлодар.обл)",
+    "vacancies_count": 26
+  },
+  {
+    "area_id": "2951",
+    "area_name": "Сарыагаш",
+    "vacancies_count": 23
+  },
+  {
+    "area_id": "2510",
+    "area_name": "Жанаозен",
+    "vacancies_count": 22
+  },
+  {
+    "area_id": "6287",
+    "area_name": "Есик",
+    "vacancies_count": 20
+  },
+  {
+    "area_id": "173",
+    "area_name": "Кентау (ЮКО)",
+    "vacancies_count": 18
+  },
+  {
+    "area_id": "6297",
+    "area_name": "Лисаковск",
+    "vacancies_count": 18
+  },
+  {
+    "area_id": "6299",
+    "area_name": "Отеген-Батыр",
+    "vacancies_count": 18
+  },
+  {
+    "area_id": "6017",
+    "area_name": "Сарань",
+    "vacancies_count": 18
+  },
+  {
+    "area_id": "195",
+    "area_name": "Хромтау",
+    "vacancies_count": 18
+  },
+  {
+    "area_id": "2729",
+    "area_name": "Шу",
+    "vacancies_count": 18
+  },
+  {
+    "area_id": "169",
+    "area_name": "Алтай (Зыряновск)",
+    "vacancies_count": 16
+  },
+  {
+    "area_id": "11180",
+    "area_name": "Боралдай",
+    "vacancies_count": 16
+  },
+  {
+    "area_id": "167",
+    "area_name": "Жанатас",
+    "vacancies_count": 16
+  },
+  {
+    "area_id": "11293",
+    "area_name": "Байсерке ( Алматинская область)",
+    "vacancies_count": 15
+  },
+  {
+    "area_id": "6393",
+    "area_name": "Косшы",
+    "vacancies_count": 14
+  },
+  {
+    "area_id": "3034",
+    "area_name": "Кульсары",
+    "vacancies_count": 14
+  },
+  {
+    "area_id": "6104",
+    "area_name": "Жаркент",
+    "vacancies_count": 13
+  },
+  {
+    "area_id": "184",
+    "area_name": "Сатпаев",
+    "vacancies_count": 13
+  },
+  {
+    "area_id": "2950",
+    "area_name": "Макинск",
+    "vacancies_count": 12
+  },
+  {
+    "area_id": "6322",
+    "area_name": "Житикара",
+    "vacancies_count": 9
+  },
+  {
+    "area_id": "6254",
+    "area_name": "Аксукент",
+    "vacancies_count": 8
+  },
+  {
+    "area_id": "3663",
+    "area_name": "Атбасар",
+    "vacancies_count": 8
+  },
+  {
+    "area_id": "6349",
+    "area_name": "Ушарал",
+    "vacancies_count": 8
+  },
+  {
+    "area_id": "157",
+    "area_name": "Аягоз (ВКО)",
+    "vacancies_count": 7
+  },
+  {
+    "area_id": "6365",
+    "area_name": "Актогай",
+    "vacancies_count": 6
+  },
+  {
+    "area_id": "11524",
+    "area_name": "Алатау",
+    "vacancies_count": 6
+  },
+  {
+    "area_id": "6290",
+    "area_name": "Шахтинск",
+    "vacancies_count": 6
+  },
+  {
+    "area_id": "158",
+    "area_name": "Аральск",
+    "vacancies_count": 5
+  },
+  {
+    "area_id": "6300",
+    "area_name": "Арысь (Туркестанская область)",
+    "vacancies_count": 5
+  },
+  {
+    "area_id": "6431",
+    "area_name": "Глубокое (Восточно-Казахстанская область)",
+    "vacancies_count": 5
+  },
+  {
+    "area_id": "6292",
+    "area_name": "Есиль",
+    "vacancies_count": 5
+  },
+  {
+    "area_id": "179",
+    "area_name": "Ленгер (ЮКО)",
+    "vacancies_count": 5
+  },
+  {
+    "area_id": "11292",
+    "area_name": "Макат (Атырауская область)",
+    "vacancies_count": 5
+  },
+  {
+    "area_id": "189",
+    "area_name": "Текели",
+    "vacancies_count": 5
+  },
+  {
+    "area_id": "6251",
+    "area_name": "Абай",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "161",
+    "area_name": "Аркалык",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "6351",
+    "area_name": "Атасу",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "5124",
+    "area_name": "Жаксы",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "2952",
+    "area_name": "Жетысай",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "3074",
+    "area_name": "Кандыагаш",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "4491",
+    "area_name": "Кордай",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "11723",
+    "area_name": "Тобыл",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "6248",
+    "area_name": "Узынагаш",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "6388",
+    "area_name": "Шардара",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "6324",
+    "area_name": "Шиели",
+    "vacancies_count": 4
+  },
+  {
+    "area_id": "2226",
+    "area_name": "Байконур (Кызылорд. обл)",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "11183",
+    "area_name": "Зеренда",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "175",
+    "area_name": "Казалы (Кызылорд. обл)",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "6358",
+    "area_name": "Карабулак (Алматинская область)",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "6471",
+    "area_name": "Каражал",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "11073",
+    "area_name": "Село имени Турара Рыскулова",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "6453",
+    "area_name": "Урджар",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "6250",
+    "area_name": "Уштобе",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "6500",
+    "area_name": "Шаульдер",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "6108",
+    "area_name": "Шелек",
+    "vacancies_count": 3
+  },
+  {
+    "area_id": "2728",
+    "area_name": "Акколь",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "156",
+    "area_name": "Алга (Актюбинская обл)",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "155",
+    "area_name": "Арысь (ЮКО)",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "5053",
+    "area_name": "Аулиеколь",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6497",
+    "area_name": "Балпык-Би",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6343",
+    "area_name": "Жайрем",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6446",
+    "area_name": "Жанакорган",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6496",
+    "area_name": "Жансугуров",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6947",
+    "area_name": "Жем",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "11331",
+    "area_name": "Жетысу",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "11330",
+    "area_name": "Жибек Жолы",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6460",
+    "area_name": "Кабанбай",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "11237",
+    "area_name": "Казцик",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6509",
+    "area_name": "Казыгурт",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "178",
+    "area_name": "Каратау",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "5052",
+    "area_name": "Качар",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "5051",
+    "area_name": "Курчатов (Казахстан)",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6244",
+    "area_name": "Мангистау",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "5117",
+    "area_name": "Осакаровка",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6502",
+    "area_name": "Сайрам",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "4304",
+    "area_name": "Сарканд",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6484",
+    "area_name": "Сарыкемер",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6459",
+    "area_name": "Сарыозек",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "2755",
+    "area_name": "Серебрянск",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6344",
+    "area_name": "Торетам",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "6524",
+    "area_name": "Шетпе",
+    "vacancies_count": 2
+  },
+  {
+    "area_id": "11071",
+    "area_name": "Айтеке-Би",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "163",
+    "area_name": "Бейнеу (Мангистауская обл)",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "5129",
+    "area_name": "Бурабай",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "165",
+    "area_name": "Ерейментау (Акмол.обл)",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "6525",
+    "area_name": "Жетыбай (Мангистауская область)",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "168",
+    "area_name": "Зайсан",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "11163",
+    "area_name": "Калбатау",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "11072",
+    "area_name": "Карабулак (Сайрамский район)",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "6513",
+    "area_name": "Кокпекты",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "6487",
+    "area_name": "Кулан",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "6780",
+    "area_name": "Кушмурун",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "5056",
+    "area_name": "Новоишимское",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "6060",
+    "area_name": "Сергеевка (Северо-Казахстанская область)",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "186",
+    "area_name": "Солнечный (ПГТ, Павлодарская обл)",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "11525",
+    "area_name": "Темирлановка",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "6781",
+    "area_name": "Фёдоровка",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "3704",
+    "area_name": "Чарск (Шар)",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "4637",
+    "area_name": "Чунджа",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "6348",
+    "area_name": "Шалкар",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "11231",
+    "area_name": "Шамалган",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "6499",
+    "area_name": "Шаян",
+    "vacancies_count": 1
+  },
+  {
+    "area_id": "6782",
+    "area_name": "Айет",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11083",
+    "area_name": "Аккистау",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11484",
+    "area_name": "Арташат",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6493",
+    "area_name": "Аса",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6529",
+    "area_name": "Астраханка",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6511",
+    "area_name": "Асыката",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6510",
+    "area_name": "Атакент",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "5118",
+    "area_name": "Батпак",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "162",
+    "area_name": "Баутино",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6488",
+    "area_name": "Бауыржан Момышулы",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "5055",
+    "area_name": "Бесколь",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6778",
+    "area_name": "Боровской",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6483",
+    "area_name": "Дарьинское",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11076",
+    "area_name": "Державинск",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11329",
+    "area_name": "Ельтай",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6347",
+    "area_name": "Жалагаш",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6482",
+    "area_name": "Жангала",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6481",
+    "area_name": "Жанибек",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11768",
+    "area_name": "Кобда",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6989",
+    "area_name": "Жезкент",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6346",
+    "area_name": "Жосалы (Кызылординская область)",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6479",
+    "area_name": "Жымпиты",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11332",
+    "area_name": "Иртышск",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "5054",
+    "area_name": "Карабалык",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6478",
+    "area_name": "Каратобе",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11078",
+    "area_name": "Карауылкельды",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11258",
+    "area_name": "Каргалы",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6342",
+    "area_name": "Каркаралинск",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6495",
+    "area_name": "Кеген",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11162",
+    "area_name": "Курык",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6512",
+    "area_name": "Маканчи",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11291",
+    "area_name": "Мартук (Актюбинская область)",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11333",
+    "area_name": "Матай",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11238",
+    "area_name": "Междуреченское",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6486",
+    "area_name": "Мерке",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6485",
+    "area_name": "Мойынкум",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6503",
+    "area_name": "Мырзакент",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6494",
+    "area_name": "Нарынкол",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11082",
+    "area_name": "Новая Бухтарма",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6477",
+    "area_name": "Перемётное",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6395",
+    "area_name": "Приозёрск (Карагандинская область)",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11275",
+    "area_name": "Рассвет (Кызылжарский район)",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6501",
+    "area_name": "Рыскулово",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6476",
+    "area_name": "Сайхин",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "5126",
+    "area_name": "Саксаульский",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6779",
+    "area_name": "Сарыколь",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6480",
+    "area_name": "Солнечное (Глубоковский район)",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6186",
+    "area_name": "Софиевка (Казахстан)",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "5164",
+    "area_name": "Степняк",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6475",
+    "area_name": "Тайпак",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "5042",
+    "area_name": "Тайынша",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6325",
+    "area_name": "Талшик",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6474",
+    "area_name": "Таскала",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "7003",
+    "area_name": "Тасты-Талды",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "11194",
+    "area_name": "Теренозек",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "191",
+    "area_name": "Торгай",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6366",
+    "area_name": "Торткудук",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6935",
+    "area_name": "Улкен-Нарын",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6473",
+    "area_name": "Чапаево",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6472",
+    "area_name": "Чингирлау",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6498",
+    "area_name": "Шолаккорган",
+    "vacancies_count": 0
+  },
+  {
+    "area_id": "6948",
+    "area_name": "Эмба",
+    "vacancies_count": 0
+  }
+]
