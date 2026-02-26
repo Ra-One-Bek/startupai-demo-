@@ -71,7 +71,7 @@ export default function JobsSection() {
   );
 
   return (
-    <section className="h-screen flex items-center justify-center overflow-hidden">
+    <section className="h-screen flex bg-gradient-to-t from-blue-300 to-slate-800 items-center justify-center overflow-hidden">
       <div className="fixed inset-0 backdrop-blur-md bg-black/30 z-[-2]"></div>
       <BackgroundHero />
 
