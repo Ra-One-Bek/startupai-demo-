@@ -1,6 +1,4 @@
-import { section } from "framer-motion/client";
-import { div } from "framer-motion/m";
-import { useState } from "react";
+
 import Language, {} from "../components/provider/Language" 
 import BackgroundHero from "./backgrounds/BackgroundHero";
 
