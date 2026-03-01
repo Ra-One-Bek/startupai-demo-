@@ -5,13 +5,13 @@ import { useNavigate } from "react-router-dom";
 import * as THREE from "three";
 
 function HeadFollowMouse({
-  pivot,
+  pivotRef,
   maxYawDeg = 45,
   maxPitchDeg = 35,
   sensitivity = 500,
   lerp = 0.18,
 }: {
-  pivot: THREE.Object3D;
+  pivotRef: React.RefObject<THREE.Object3D | null>;
   maxYawDeg?: number;
   maxPitchDeg?: number;
   sensitivity?: number;
@@ -30,6 +30,9 @@ function HeadFollowMouse({
   }, []);
 
   useFrame(() => {
+    const pivot = pivotRef.current;
+    if (!pivot) return;
+
     const bounds = gl.domElement.getBoundingClientRect();
     const centerX = bounds.left + bounds.width / 2;
     const centerY = bounds.top + bounds.height / 2;
@@ -40,8 +43,8 @@ function HeadFollowMouse({
     const nx = THREE.MathUtils.clamp(dx / sensitivity, -1, 1);
     const ny = THREE.MathUtils.clamp(dy / sensitivity, -2, 2);
 
-    const targetYaw = THREE.MathUtils.degToRad(nx * maxYawDeg);      // вправо => +
-    const targetPitch = THREE.MathUtils.degToRad(ny * maxPitchDeg); // вверх => +
+    const targetYaw = THREE.MathUtils.degToRad(nx * maxYawDeg);
+    const targetPitch = THREE.MathUtils.degToRad(ny * maxPitchDeg);
 
     pivot.rotation.y = THREE.MathUtils.lerp(pivot.rotation.y, targetYaw, lerp);
     pivot.rotation.x = THREE.MathUtils.lerp(pivot.rotation.x, targetPitch, lerp);
@@ -81,7 +84,7 @@ function RobotHead() {
           <primitive object={scene} />
         </group>
 
-        {pivotRef.current && <HeadFollowMouse pivot={pivotRef.current} />}
+        <HeadFollowMouse pivotRef={pivotRef} />
       </group>
     </group>
   );
