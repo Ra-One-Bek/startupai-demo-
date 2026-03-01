@@ -4,6 +4,9 @@ import JobsSection from "./components/JobsSection"
 import HeroSection from "./components/HeroSection";
 import LandingSection from "./components/LandingSection";
 import LoginPage from "./components/Autorization/LoginPage";
+import ProfileSection from "./components/ProfileSection";
+import Resume from "./components/ResumeAnalyze/Resume";
+import Result from "./components/ResumeAnalyze/Result";
 
 
 
@@ -17,6 +20,12 @@ function App() {
         <Route path="/login" element={<LoginPage />}/>
         <Route path="/Hero" element={<HeroSection />}/>
         <Route path="/jobs" element={<JobsSection />} />
+        <Route path="/profile" element={<ProfileSection />}/>
+        <Route path="/resume" element={<Resume />}/>
+        <Route path="/result" element={<Result />}/>
+
+
+
       </Routes>
     </ BrowserRouter>
   );

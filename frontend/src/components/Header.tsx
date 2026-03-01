@@ -2,8 +2,7 @@ import { useState } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 import SearchModal from "./SearchModal";
-import { Briefcase, CardSim, Heart, Home, Layers, Search, User } from "lucide-react";
-import { CgProfile } from "react-icons/cg";
+import { Heart, Home, Layers, Search, User } from "lucide-react";
 
 export default function Header() {
     const [isOpenModal, setIsOpenModal] = useState(false);
@@ -30,7 +29,7 @@ export default function Header() {
                         // ✅ If Landing page → show login button
                         <button
                             onClick={() => navigate("/login")}
-                            className="w-full h-full text-slate-900 rounded-full font-semibold hover:bg-blue-200/20 transition"
+                            className="w-full h-full text-slate-900 rounded-full font-semibold hover:bg-blue-200 hover:scale-105 transition"
                         >
                             Go to login
                         </button>
