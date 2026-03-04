@@ -137,7 +137,7 @@ export default function JobsSection() {
                 className="absolute inset-0 bg-slate-900 rounded-2xl text-white p-5 shadow-xl flex flex-col justify-between select-none"
               >
                 <div>
-                  <h1 className="text-2xl font-bold">{current.title}</h1>
+                  <h1 className="text-lg font-bold">{current.title}</h1>
                   <p className="mt-2 opacity-90 whitespace-pre-line">{current.description}</p>
                 </div>
 
