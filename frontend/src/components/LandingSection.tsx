@@ -102,21 +102,21 @@ export default function LandingSection() {
   ];
 
   return (
-    <section className="relative w-full min-h-screen bg-gradient-to-t from-white to-[#407BA7] overflow-hidden flex items-center justify-center px-6">
+    <section className="relative w-full min-h-screen bg-gradient-to-t from-white to-[#407BA7] overflow-hidden flex lg:flex-row flex-col items-center justify-center px-6">
       <div className="relative z-10 max-w-xl w-full">
-        <h1 className="text-5xl font-extrabold leading-tight text-white">
+        <h1 className="lg:text-5xl text-7xl font-extrabold leading-tight text-white">
           Work AI
-          <span className="block text-white text-8xl mt-3 font-black">
-            <span className="text-[120px] bg-gradient-to-r from-blue-400 to-slate-300 text-transparent bg-clip-text">HR AI</span> 
+          <span className="block text-white lg:text-8xl text-3xl mt-3 font-black">
+            <span className="lg:text-[120px] text-[30px] bg-gradient-to-r from-blue-400 to-slate-300 text-transparent bg-clip-text">HR AI</span> 
             <span className="bg-gradient-to-t from-purple-200 to-slate-300 text-transparent bg-clip-text"> Navigator </span> 
             application
           </span>
-          <span className="w-100 block text-slate-800/70 text-xl mt-10 font-semibold">
+          <span className="w-100 block text-slate-800/70 lg:text-xl text-2xl mt-10 font-semibold">
             Build your learning track from real market requirements
           </span>
         </h1>
 
-        <p className="mt-6 text-black/80 text-lg leading-relaxed">
+        <p className="mt-6 lg:text-black/80 text-black/50 bg-sky-200/50 rounded-2xl p-10 lg:text-lg text-md leading-relaxed">
           Fill a simple resume template, and AI will show your skill gaps and generate a weekly
           learning plan.
         </p>
@@ -138,7 +138,7 @@ export default function LandingSection() {
         </div>
       </div>
 
-      <div className="relative z-10 w-[500px] h-[500px] bg-white/5 rounded-full shadow-2xl border border-black/10 flex items-center justify-center">
+      <div className="relative z-10 w-100 h-100 lg:w-[500px] lg:h-[500px] bg-white/5 rounded-full shadow-2xl border border-black/10 flex items-center justify-center">
         <Canvas camera={{ position: [0, 0.3, 3], fov: 38 }}>
           <ambientLight intensity={0.8} />
           <directionalLight position={[3, 3, 2]} intensity={1.5} />
@@ -159,7 +159,7 @@ export default function LandingSection() {
         </div>
       ))}
 
-      <div className="absolute -bottom-40 left-1/2 -translate-x-1/2 w-[900px] h-[900px] bg-white/30 blur-3xl rounded-full" />
+      <div className="absolute -bottom-40 left-1/2 -translate-x-1/2 lg:w-[900px] lg:h-[900px] w-200 h-200 bg-white/30 blur-3xl rounded-full" />
     </section>
   );
 }
