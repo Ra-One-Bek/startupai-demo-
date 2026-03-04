@@ -1,11 +1,11 @@
 import { useEffect, useRef, useState } from "react";
 
 type PreLoaderProps = {
-  /** Сколько длится загрузка (мс) */
+  
   durationMs?: number;
-  /** Коллбек, когда дошло до 100% */
+  
   onComplete?: () => void;
-  /** Стартовое значение, если нужно (0..100) */
+ 
   initialProgress?: number;
 };
 
