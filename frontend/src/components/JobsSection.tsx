@@ -84,7 +84,7 @@ export default function JobsSection() {
 
       <div className="flex flex-col items-center gap-4">
         <div className="text-purple-900 font-black text-3xl">
-          ❤️<span className="font-bold">{saved.length}</span>
+          hui<span className="font-bold">{saved.length}</span>
         </div>
 
         <div className="relative w-72 h-96">
