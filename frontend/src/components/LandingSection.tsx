@@ -105,7 +105,7 @@ export default function LandingSection() {
     <section className="relative w-full min-h-screen bg-gradient-to-t from-white to-[#407BA7] overflow-hidden flex lg:flex-row flex-col items-center justify-center px-6">
       <div className="relative z-10 max-w-xl w-full">
         <h1 className="lg:text-5xl text-7xl font-extrabold leading-tight text-white">
-          Work AI
+          Work AI ERACV47
           <span className="block text-white lg:text-8xl text-3xl mt-3 font-black">
             <span className="lg:text-[120px] text-[30px] bg-gradient-to-r from-blue-400 to-slate-300 text-transparent bg-clip-text">HR AI</span> 
             <span className="bg-gradient-to-t from-purple-200 to-slate-300 text-transparent bg-clip-text"> Navigator </span> 
